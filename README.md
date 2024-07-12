@@ -51,7 +51,7 @@ Start the Django development server:
 python manage.py runserver
 ```
 
-The API will be accessible at http://localhost:8000/.
+The API will be accessible at http://localhost:8000/api/students/
 
 
 
